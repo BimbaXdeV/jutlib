@@ -1,0 +1,38 @@
+[build-system]
+requires = ['setuptools>=61.0', 'wheel']
+build_backend = 'setuptools.build_meta'
+
+[project]
+name = 'jutlib'
+version = '0.1.0'
+description = 'A small Python parser for installing anime episodes on user device from service jut.su'
+requires-python = '>=3.9'
+readme = 'README.md'
+license = {text = 'MIT'}
+keywords = ['jutsu', 'downloader', 'anime', 'jut']
+classifierds = ['Programming Language :: Python',
+    'Natural Language :: English',
+    'Operating System :: OS Independent',]
+dependencies = [
+    'beautifulsoup4==4.12.3',
+    'bs4==0.0.2',
+    'certifi==2024.8.30',
+    'charset-normalizer==3.4.0',
+    'colorama==0.4.6',
+    'idna==3.10',
+    'lxml==5.3.0',
+    'requests==2.32.3',
+    'soupsieve==2.6',
+    'tqdm==4.66.5',
+    'urllib3==2.2.3',
+]
+authors = [{name = 'BimbaXdeV'}]
+maintainers = []
+
+[project.urls]
+repository = ''
+
+[tool.setuptools]
+packages = ['jutsu']
+include-package-data = true
+
