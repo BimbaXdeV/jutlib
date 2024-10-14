@@ -8,7 +8,7 @@ Characteristics and functionality
 - The ability to customize your configuration for the installer with the ability to change: title case, space separator, and resolution quality of the installing video ;
 - Test files demonstrating how the library works in several directions in this folder ;
 - Ease of integration of the library into your independent projects.
-- 
+
 How to start using
 -------------------
 - First, make sure that your device has **_Python version 3.9_** or higher (using Python several versions lower may be possible, but I can’t tell you about stability) ;
