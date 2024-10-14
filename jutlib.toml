@@ -30,7 +30,7 @@ authors = [{name = 'BimbaXdeV'}]
 maintainers = []
 
 [project.urls]
-repository = ''
+repository = 'https://github.com/BimbaXdeV/jutlib/'
 
 [tool.setuptools]
 packages = ['jutsu']

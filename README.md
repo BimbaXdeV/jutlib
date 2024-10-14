@@ -27,7 +27,7 @@ pip install jutsu-downloader
 
 Examples of using
 ------------------
-What about documentation without examples? Let's go through the basic methods of this library :
+What about documentation without [examples](https://github.com/BimbaXdeV/jutlib/tree/master/tests)? Let's go through the basic methods of this library :
 
 - Initialization :
 
