@@ -33,7 +33,7 @@ if __name__ == '__main__':
         download_url='https://github.com/BimbaXdeV/jutlib/archive/refs/heads/master.zip',
 
         packages=['jutsu'],
-        install_requires = [
+        install_requires=[
             'beautifulsoup4==4.12.3',
             'bs4==0.0.2',
             'certifi==2024.8.30',
