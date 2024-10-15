@@ -1,5 +1,5 @@
-jutlib  v0.1.0
-=======
+jutlib v0.1.0
+==============
 **Easy Python library for downloading anime episodes to user devices from service [jut.su](https://jut.su/anime/).**
 
 Characteristics and functionality
