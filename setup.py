@@ -19,10 +19,10 @@ if __name__ == '__main__':
         long_description=__long_description,
         long_description_content_type='text/markdown',
 
-        requires_python='>=3.9',
+        python_requires='>=3.9',
         license='MIT License',
         keywords=['jutsu', 'downloader', 'anime', 'jut'],
-        classifierds=['Programming Language :: Python :: 3',
+        classifiers=['Programming Language :: Python :: 3',
                       'Programming Language :: Python :: 3.9',
                       'Programming Language :: Python :: 3.10',
                       'Intended Audience :: Developers',
